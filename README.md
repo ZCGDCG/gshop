@@ -1,4 +1,4 @@
-## 笔记
+## 笔记222
 ## FooterGuide
 ## 设置动态的样式可以用
         :class="{on: $route.path==='/search'}"  //on是属性名，在路由组件中$router和$route是全局可见的，$router是在路由跳转的时候使用，$route可以在浏览器的vue组件中看到，是个对象，其中包含path...
